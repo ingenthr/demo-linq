@@ -1,0 +1,15 @@
+{
+    "basic": {
+      "username": "username",
+      "password": "mypassword",
+      "enableConfigHeartbeat": false,
+      "servers": [
+        "http://localhost:8091/"
+      ],
+      "buckets": [
+        {
+          "name": "travel-sample"
+        }
+      ]
+    }
+  }
